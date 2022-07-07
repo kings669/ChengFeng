@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ChengFeng',
-  tagline: 'Dinosaurs are cool',
+  title: 'ChengFengLibrary',
+  tagline: '乘风战队文档资料库',
   url: 'https://chengfeng.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',

@@ -2,15 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 初次使用乘风战队文档库
 
-Let's discover **Docusaurus in less than 5 minutes**.
+让我们来使用**乘风战队文档库**
 
-## Getting Started
+## 开始
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+我们的技术组分为**电控**、**视觉**、**机械**，选择你修读的组别开始学习。
 
 ### What you'll need
 
