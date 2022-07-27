@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    locales: ['zh-Hans','en'],
   },
 
   presets: [
@@ -69,6 +69,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'localeDropdown',
+          }, 
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kings669/ChengFeng',
@@ -90,7 +93,7 @@ const config = {
             ],
           },      
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 乘风战队资料库`,
       },
       prism: {
         theme: lightCodeTheme,
