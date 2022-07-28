@@ -69,13 +69,15 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {
-            type: 'localeDropdown',
-          }, 
+           
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kings669/ChengFeng',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
