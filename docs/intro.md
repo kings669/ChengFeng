@@ -5,41 +5,33 @@ sidebar_position: 1
 # 初次使用乘风战队文档库
 
 让我们来使用**乘风战队文档库**
-
+![比赛场](./images/%E6%AF%94%E8%B5%9B%E5%9C%BA.jpg)
 ## 开始
 
-我们的技术组分为**电控**、**视觉**、**机械**，选择你修读的组别开始学习。
+我们的技术组分为**电控**、**视觉**、**机械**，选择你修读的组别开始学习。  
+### 左侧导航
+  左侧导航将各个小组分类，请按照小组开始入门学习。  
+![左侧](./images/%E5%B7%A6%E4%BE%A7%E5%AF%BC%E8%88%AA.png)
+### 博客页面
+  博客页面是由每个赛季队员定期发布内部文章，大家可以按照需要进行学习和分享。  
+![博客](./images/%E5%8D%9A%E5%AE%A2.png)
 
-### What you'll need
+## 网盘资源
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [江西理工大学乘风战队资料](http://106.55.31.73:5244/aliyun) 
+  - 注意：使用资料库，默认遵守首页**协议**  
+  
+![网盘](./images/%E7%BD%91%E7%9B%98.png)
 
-## Generate a new site
+## 各个组别联系人
 
-Generate a new Docusaurus site using the **classic template**.
+电控/硬件：**`金宏辉`**  
+QQ：`2534985239`
 
-The classic template will automatically be added to your project after you run the command:
+视觉：**`陈洋`**   
+QQ：`2369077834`
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+机械：**`吴伊果`**  、 **`罗昭明`**  
+QQ：`1449215581`、`3394278993`
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+网站维护：**`金宏辉`**  
