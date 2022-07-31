@@ -1,7 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
-
+:::tip  
+Git的使用至关重要！！  
+:::  
 作者：@金宏辉
 
 Git官网：[https://git-scm.com/](https://git-scm.com/)
@@ -11,10 +13,9 @@ Git官网：[https://git-scm.com/](https://git-scm.com/)
 我们需要设置一下默认给一个Git的账号：
 
 
-```
+```bash
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
-
 ```
 
 #### 初始化仓库
