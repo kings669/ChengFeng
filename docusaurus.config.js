@@ -67,10 +67,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '入门指南',
           },
            
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/kings669/ChengFeng',
             label: 'GitHub',
@@ -89,11 +89,20 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: '入门指南',
                 to: '/docs/intro',
               },
             ],
-          },      
+          }, 
+          {
+            title: 'Blog',
+            items: [
+              {
+                label: '博客',
+                to: '/blog',
+              },
+            ],
+          },     
         ],
         copyright: `Copyright © ${new Date().getFullYear()} 乘风战队资料库`,
       },
