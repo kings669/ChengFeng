@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kings669/ChengFeng/tree/main/docs',
+            'https://github.com/kings669/ChengFeng/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kings669/ChengFeng/tree/main/blog',
+            'https://github.com/kings669/ChengFeng/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -92,17 +92,12 @@ const config = {
                 label: '入门指南',
                 to: '/docs/intro',
               },
-            ],
-          }, 
-          {
-            title: 'Blog',
-            items: [
               {
                 label: '博客',
                 to: '/blog',
               },
             ],
-          },     
+          },              
         ],
         copyright: `Copyright © ${new Date().getFullYear()} 乘风战队资料库`,
       },
