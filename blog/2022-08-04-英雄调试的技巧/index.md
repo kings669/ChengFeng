@@ -1,11 +1,10 @@
 ---
 slug: 英雄调试的技巧
 title: 英雄调试的技巧
-authors: 
-	name: Chen Jie
-  	title: Head of Hero Robot Control class of '22
-  	url: https://jxlgdx.coding.net/u/FHwtODUjRJ
-  	image_url: https://qlogo4.store.qq.com/qzone/2985794207/2985794207/100?1655782637
+author: Chen Jie
+authorTitle: Head of Hero Robot Control class of '22
+authorURL: https://jxlgdx.coding.net/u/FHwtODUjRJ
+authorImageURL: https://qlogo4.store.qq.com/qzone/2985794207/2985794207/100?1655782637
 tags: [英雄, 麦轮, 电控]
 ---
 
