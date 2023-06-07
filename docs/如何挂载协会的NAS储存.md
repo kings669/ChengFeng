@@ -12,10 +12,10 @@ sidebar_position: 1
 ## 在RaiDrive中添加NAS
 
 ## 1.点击软件右上角的添加按钮，添加一个节点
-![Snipaste_2023-06-07_15-07-22.png](images/NAS/Snipaste_2023-06-07_15-07-22.png)
+![Snipaste_2023-06-07_15-07-22.png](./images/NAS/Snipaste_2023-06-07_15-07-22.png)
 
 ## 2.选择WebDAV类型
-![Snipaste_2023-06-07_15-15-40.png](images/NAS/Snipaste_2023-06-07_15-15-40.png)
+![Snipaste_2023-06-07_15-15-40.png](./images/NAS/Snipaste_2023-06-07_15-15-40.png)
 
 ### 3.1添加内网NAS
 
@@ -23,7 +23,7 @@ sidebar_position: 1
 内网环境下的NAS仅支持**内网访问**(连接协会路由器)
 :::
 参考下图
-![Snipaste_2023-06-07_15-20-39.png](images/NAS/Snipaste_2023-06-07_15-20-39.png)
+![Snipaste_2023-06-07_15-20-39.png](./images/NAS/Snipaste_2023-06-07_15-20-39.png)
 
 其中
 - 硬盘名称可以随意填写，比如填写为“内网NAS”
@@ -59,11 +59,11 @@ sidebar_position: 1
 本操作可以解决外网NAS环境下右键文件卡死的问题
 :::
 1.
-![Snipaste_2023-06-07_15-31-42.png](images/NAS/Snipaste_2023-06-07_15-31-42.png)
+![Snipaste_2023-06-07_15-31-42.png](./images/NAS/Snipaste_2023-06-07_15-31-42.png)
 
 2.
 
-![Snipaste_2023-06-07_15-33-39.png](images/NAS/Snipaste_2023-06-07_15-33-39.png)
+![Snipaste_2023-06-07_15-33-39.png](./images/NAS/Snipaste_2023-06-07_15-33-39.png)
 
 点击应用后重新连接即可
 
