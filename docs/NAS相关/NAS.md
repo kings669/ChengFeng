@@ -5,7 +5,7 @@ sidebar_position: 1
 # NAS相关内容
 
 ## 省流
-  [如何挂载协会的NAS储存]()
+  [如何挂载协会的NAS储存](如何挂载协会的NAS储存.md)
 
 ## 什么是NAS
   NAS（Network Attached Storage：网络附属存储）是一种利用互联网共享储存空间的技术。
