@@ -71,6 +71,11 @@ const config = {
           },
            
           {to: '/blog', label: '博客', position: 'left'},
+          {to: 'http://dx.moefish.com', label: '任务管理', position: 'left'},
+          {to: 'https://vscode.moefish.com', label: '在线开发', position: 'left'},
+          {to: 'http://printer.moefish.com', label: '3d打印机', position: 'left'},
+
+
           {
             href: 'https://github.com/kings669/ChengFeng',
             label: 'GitHub',
